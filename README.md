@@ -1,4 +1,4 @@
-# minhas_viagens
+# App Minhas Viagens
 
 ![Minhas viagens telas](https://raw.githubusercontent.com/maxweiner7/minhas_viagens_flutter/master/images/telas.png)
 Projeto desenvolvido durante o curso "Desenvolvimento Android e IOS com Flutter 2020" no site Udemy.
