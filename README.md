@@ -1,16 +1,13 @@
 # minhas_viagens
 
-A new Flutter application.
-
+![Minhas viagens telas](https://raw.githubusercontent.com/maxweiner7/minhas_viagens_flutter/master/images/telas.png)
+Projeto desenvolvido durante o curso "Desenvolvimento Android e IOS com Flutter 2020" no site Udemy.
 ## Getting Started
+Neste módulo do curso foi desenvolvido:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* SplashScreen
+* Tratamento de permissões do sistema Android
+* Comunicação com o banco de dados Firebase
+* Listagem de locais adicionados no mapa
+* Foi utilizado a API do google Maps
+* Adicionar Marker 
